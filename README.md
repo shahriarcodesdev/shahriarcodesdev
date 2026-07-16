@@ -1,7 +1,5 @@
 
-<img width="1792" height="592" alt="github image" src="https://github.com/user-attachments/assets/20895bc0-a642-4084-b637-9b82ecbdf2c5" />
-
-
+<img width="2090" height="496" alt="github cover" src="https://github.com/user-attachments/assets/5b29f2b0-91ee-442c-9482-d75936011941" />
 
 <h1 align="center">Hi 👋, I'm Shahriar Ahmed</h1>
 <h3 align="center">🚀 Full Stack MERN Developer | Passionate About Building Modern Web Applications</h3>
