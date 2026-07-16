@@ -1,5 +1,6 @@
 
-<img width="1792" height="592" alt="Gemini_Generated_Image_w9dhtvw9dhtvw9dh" src="https://github.com/user-attachments/assets/ea1ecf06-7c9a-45a4-a100-e7cad1a21591" />
+<img width="1792" height="592" alt="github image" src="https://github.com/user-attachments/assets/20895bc0-a642-4084-b637-9b82ecbdf2c5" />
+
 
 
 <h1 align="center">Hi 👋, I'm Shahriar Ahmed</h1>
