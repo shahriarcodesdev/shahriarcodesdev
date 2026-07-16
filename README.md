@@ -17,9 +17,9 @@
 - 🚀 Building scalable web applications using modern technologies
 - 🎯 Passionate about clean code and problem solving
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js, Express.js, Prisma & PostgreSQL**
-- 📫 Reach me at **your-email@gmail.com**
-- 🌐 Portfolio: **https://your-portfolio.vercel.app**
-- 📄 Resume: **Coming Soon**
+- 📫 Reach me at **shahriarshafi42@yahoo.com *
+- 🌐 Portfolio: **https://shahriar-portfolio-dev.netlify.app/**
+- 📄 Resume: **https://drive.google.com/file/d/1ui-WUtMi6w4wP6CwCQzMLLSl7ssBviyb/view?usp=sharing**
 
 ---
 
