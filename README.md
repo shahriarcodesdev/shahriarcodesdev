@@ -25,7 +25,7 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/shahriar-ahmed-2a589b164/)" target="_blank">
+<a href="[(https://www.linkedin.com/in/shahriar-ahmed-2a589b164/)]" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
