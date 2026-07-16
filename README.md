@@ -19,7 +19,7 @@
 - 💬 Ask me about **React, Next.js, TypeScript, Node.js, Express.js, Prisma & PostgreSQL**
 - 📫 Reach me at **shahriarshafi42@yahoo.com *
 - 🌐 Portfolio: **https://shahriar-portfolio-dev.netlify.app/**
-- 📄 **Resume:** [View Resume]([https://drive.google.com/file/d/1ui-WUtMi6w4wP6CwCQzMLLSl7ssBviyb/view?usp=sharing])
+📄 **Resume:** [View](https://drive.google.com/file/d/1ui-WUtMi6w4wP6CwCQzMLLSl7ssBviyb/view?usp=sharing) | 📥 [Download]https://drive.google.com/file/d/1ui-WUtMi6w4wP6CwCQzMLLSl7ssBviyb/view?usp=drive_link
 ---
 
 # 🌐 Connect With Me
