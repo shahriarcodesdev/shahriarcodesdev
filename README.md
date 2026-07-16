@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
 
-  <a href="https://github.com/shahriarcodes" target="_blank">
+  <a href="https://github.com/shahriarcodesdev" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
   </a>
 
