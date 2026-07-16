@@ -25,18 +25,17 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="[(https://www.linkedin.com/in/shahriar-ahmed-2a589b164/)]" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+  <a href="https://www.linkedin.com/in/shahriar-ahmed-2a589b164/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
 
-<a href="[https://github.com/shahriarcodes](https://github.com/shahriarcodesdev)" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
+  <a href="https://github.com/shahriarcodes" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
 
-<a href="shahriarshafi42@yahoo.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
+  <a href="mailto:shahriarshafi42@yahoo.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+  </a>
 </p>
 
 ---
