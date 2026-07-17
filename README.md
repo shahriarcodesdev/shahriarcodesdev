@@ -127,13 +127,11 @@ A community-driven skill-sharing platform where users can teach, learn, and exch
 </p>
 
 ---
-
-# 📈 Contribution Graph
+# 📈 GitHub Contribution Graph
 
 [![Shahriar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriarcodesdev&theme=tokyo-night)](https://github.com/shahriarcodesdev)
 
 ---
-
 
 # ✍️ Random Dev Quote
 
