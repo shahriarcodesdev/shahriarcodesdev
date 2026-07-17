@@ -117,10 +117,26 @@ A community-driven skill-sharing platform where users can teach, learn, and exch
 </p>
 
 ---
-## 📈 Contribution Graph
+## 📊 GitHub Statistics & Analysis
 
-[![Shahriar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriarcodesdev&theme=tokyo-night)](https://github.com/shahriarcodesdev)
+### GitHub Contributions
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriarcodesdev&theme=github-compact&hide_border=true" width="100%"/>
+</p>
+
+### GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahriarcodesdev&show_icons=true&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriarcodesdev&layout=compact&theme=default&hide_border=true" height="170"/>
+</p>
+
+### Repository Stats & Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarcodesdev&theme=default&hide_border=true" width="70%"/>
+</p>
 # ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
