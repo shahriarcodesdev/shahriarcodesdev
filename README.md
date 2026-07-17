@@ -70,32 +70,33 @@
 
 # 🚀 Featured Projects
 
-## 🔧 FixItNow
-A modern home service marketplace connecting customers with skilled technicians.
+## 🦸 Hero.io
+
+A modern React-based web application that showcases responsive UI design, smooth animations, client-side routing, and API integration using modern frontend technologies.
 
 **Tech Stack**
 
-`Next.js` `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` `Stripe`
+`React` `Vite` `Tailwind CSS` `React Router` `Framer Motion` `Axios` `Firebase/Supabase` `React Query`
 
 ---
 
-## 🌱 Green Earth Hero
+## 🌱 Green-Earth
 
-A platform promoting environmental awareness through campaigns and community participation.
+A modern, responsive web application that promotes environmental awareness and sustainable living through an intuitive user interface and engaging user experience.
 
 **Tech Stack**
 
-`React` `Node.js` `MongoDB` `Express`
+`JavaScript` `HTML5` `Tailwind CSS`
 
 ---
 
-## 📚 Skill Share
+## 📚 SkillShare
 
-An online learning platform where users can discover and share educational resources.
+A community-driven skill-sharing platform where users can teach, learn, and exchange skills through a modern, responsive React application with secure authentication and an intuitive user experience.
 
 **Tech Stack**
 
-`React` `Firebase` `Express` `MongoDB`
+`React` `Vite` `Tailwind CSS` `Firebase` `React Router` `Axios`
 
 ---
 
@@ -129,19 +130,10 @@ An online learning platform where users can discover and share educational resou
 
 # 📈 Contribution Graph
 
-[![Shahriar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriarcodes&theme=tokyo-night)](https://github.com/shahriarcodes)
+[![Shahriar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahriarcodesdev&theme=tokyo-night)](https://github.com/shahriarcodesdev)
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://github.com/shahriarcodes/shahriarcodes/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 # ✍️ Random Dev Quote
 
